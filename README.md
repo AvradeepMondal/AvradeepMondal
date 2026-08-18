@@ -1,5 +1,11 @@
 <div align="center">
 
+<a href="https://www.linkedin.com/in/avradeep-mondal-16560228a">
+  <img src="./assets/coding.jpg" width="350" alt="Coding">
+</a>
+
+<br><br>
+
 # 👋 Hi, I'm Avradeep Mondal
 
 ### Java Backend Developer | Spring Boot | Microservices | REST APIs | AI Integration
