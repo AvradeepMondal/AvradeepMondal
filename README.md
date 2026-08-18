@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/avradeep-mondal-16560228a">
-  <img src="./assets/coding.jpg" width="350" alt="Coding">
+  <img src="./coding.jpg" width="250" alt="Coding">
 </a>
 
 <br><br>
@@ -14,9 +14,11 @@
   <a href="https://www.linkedin.com/in/avradeep-mondal-16560228a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="https://leetcode.com/u/Avardeep_Mondal_10/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+
   <a href="https://github.com/AvradeepMondal">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -43,7 +45,12 @@ I enjoy understanding how systems work internally and turning concepts into prac
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,c" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin" height="48" />
+  <img
+    src="https://commons.wikimedia.org/wiki/Special:Redirect/file/C_Programming_Language.svg"
+    height="48"
+    alt="C Programming Language"
+  />
 </p>
 
 ### 🚀 Backend Development
@@ -90,43 +97,44 @@ I enjoy understanding how systems work internally and turning concepts into prac
 
 ## 📚 Currently Learning
 
-* Advanced Spring Boot & Spring Security
-* Microservices Architecture
-* Distributed Systems
-* Event-Driven Architecture
-* System Design
-* Spring AI
-* RAG & Vector Databases
-* Docker & Cloud Deployment
-* AI/LLM Integration
+- Advanced Spring Boot & Spring Security
+- Microservices Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- System Design
+- Spring AI
+- RAG & Vector Databases
+- Docker & Cloud Deployment
+- AI/LLM Integration
 
 ---
 
 ## 🎯 Areas of Interest
 
-* Backend Engineering
-* Microservices Architecture
-* Distributed Systems
-* API Design
-* Application Security
-* Database Design
-* AI-powered Applications
-* Mobile Application Development
+- Backend Engineering
+- Microservices Architecture
+- Distributed Systems
+- API Design
+- Application Security
+- Database Design
+- AI-powered Applications
+- Mobile Application Development
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AvradeepMondal&show_icons=true&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/AvradeepMondal">
+  <img src="https://img.shields.io/badge/GitHub-AvradeepMondal-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvradeepMondal&theme=tokyonight&hide_border=true" />
+<img src="https://komarev.com/ghpvc/?username=AvradeepMondal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
-
 ---
 
 ## 🤝 Connect With Me
