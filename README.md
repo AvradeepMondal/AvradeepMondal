@@ -118,21 +118,14 @@ I enjoy understanding how systems work internally and turning concepts into prac
 - Application Security
 - Database Design
 - AI-powered Applications
-- Mobile Application Development
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/AvradeepMondal">
-  <img src="https://img.shields.io/badge/GitHub-AvradeepMondal-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=AvradeepMondal&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api?username=AvradeepMondal&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
