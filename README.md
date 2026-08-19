@@ -121,14 +121,6 @@ I enjoy understanding how systems work internally and turning concepts into prac
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AvradeepMondal&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
----
 
 ## 🤝 Connect With Me
 
